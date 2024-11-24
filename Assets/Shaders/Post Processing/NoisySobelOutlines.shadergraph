@@ -166,7 +166,11 @@
             "m_Id": "517e489990a6432785645bb477733527"
         }
     ],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "00cd7b199d4d40ed873cdfdb4f26be9b"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -740,6 +744,26 @@
             "m_Id": "f62ed6fd8dfc4a83ad1962271df66b72"
         }
     ]
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "00cd7b199d4d40ed873cdfdb4f26be9b",
+    "m_Title": "Distorting Edges",
+    "m_Content": "Apply noise to UVs in order to distort edges\n",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -2366.160400390625,
+        "y": 766.7293090820313,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
@@ -4444,7 +4468,7 @@
     "m_CustomColors": {
         "m_SerializableColors": []
     },
-    "m_BlendMode": 21
+    "m_BlendMode": 18
 }
 
 {
