@@ -52,8 +52,7 @@ MonoBehaviour:
   m_Active: 0
   settings:
     renderPassEvent: 500
-    material: {fileID: -876546973899608171, guid: 6985038ee0800a34faccf562d7389947,
-      type: 3}
+    material: {fileID: 2100000, guid: d906df36764ec9f489154da3633ad5a2, type: 2}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -133,4 +132,4 @@ MonoBehaviour:
   m_Active: 1
   settings:
     renderPassEvent: 500
-    material: {fileID: 2100000, guid: d906df36764ec9f489154da3633ad5a2, type: 2}
+    material: {fileID: 2100000, guid: be4aa452a7ff0424e9a9498dcd5f9799, type: 2}

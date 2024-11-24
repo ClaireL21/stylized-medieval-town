@@ -34,9 +34,7 @@ static float sobelYMatrix[9] =
     -1, -2, -1
 };
 
-void DepthSobel_float(float2 UV, float Thickness, float2 screenRatio, out
-
-float OUT)
+void DepthSobel_float(float2 UV, float Thickness, float2 screenRatio, out float OUT)
 {
     float2 sobel = 0;
     
